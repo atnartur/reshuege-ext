@@ -16,6 +16,7 @@
 				"http://*.sdamgia.ru/*"
 			],
 			"js": [
+				"/libs/jquery/dist/jquery.min.js",
 				"/js/main.js"
 			],
 			"run_at": "document_end"

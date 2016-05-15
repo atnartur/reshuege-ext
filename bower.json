@@ -1,0 +1,22 @@
+{
+  "name": "reshuege-ext",
+  "homepage": "https://github.com/atnartur/reshuege-ext",
+  "authors": [
+    "atnartur <i@atnartur.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}

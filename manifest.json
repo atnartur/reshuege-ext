@@ -7,13 +7,13 @@
 	"author": "atnartur",
 	"permissions": [
 		"https://*.sdamgia.ru/*",
-		"http://*.sdamgia.ru/*",
+		"http://*.sdamgia.ru/*"
 	],
 	"content_scripts": [
 		{
 			"matches": [
 				"https://*.sdamgia.ru/*",
-				"http://*.sdamgia.ru/*",
+				"http://*.sdamgia.ru/*"
 			],
 			"js": [
 				"/js/main.js"

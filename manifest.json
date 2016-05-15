@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Расширение РешуЕГЭ",
 	"short_name": "РешуЕГЭ",
-	"description": "",
+	"description": "Расширение для портала Решу ЕГЭ, которое убирает надоедливые уведомления в правом нижнем углу",
 	"version": "1.0.0",
 	"author": "atnartur",
 	"permissions": [
